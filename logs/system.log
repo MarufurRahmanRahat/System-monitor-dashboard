@@ -1,0 +1,6 @@
+[Sat Dec 13 08:55:06 PM +06 2025] System Monitor started
+[Sat Dec 13 08:55:59 PM +06 2025] Process demo: PID 6050 lifecycle
+[Sat Dec 13 08:56:10 PM +06 2025] IPC demo: 6067 -> 6068 via pipe
+[Sat Dec 13 08:56:53 PM +06 2025] Signal demo: SIGUSR1 sent to 6080
+[Sat Dec 13 08:57:04 PM +06 2025] Scheduling demo: PIDs 6092,6093,6094
+[Sat Dec 13 08:58:07 PM +06 2025] Filesystem demo: created logs/test_5640.txt
